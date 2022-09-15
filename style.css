@@ -24,7 +24,6 @@ body{
 .col{
     float: left;
     background-color: black;
-    float: left;
     margin: 10px 10px;
     width: 400px;
     height: 100px;
@@ -32,8 +31,10 @@ body{
 
 img{
     height: 100px;
+    float: left;
 }
 
-h4{
+.interno{
     color: white;
+    float: right;
 }
